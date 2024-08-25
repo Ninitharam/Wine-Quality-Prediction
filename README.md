@@ -50,7 +50,7 @@ This project explores a novel approach to wine quality prediction by combining t
 1. Install the required libraries:
 
     ```bash
-    pip install pandas numpy matplotlib scikit-learn nltk scipy```
+    pip install pandas numpy matplotlib scikit-learn nltk scipy``
     
 
 2. Open the Jupyter Notebook:
