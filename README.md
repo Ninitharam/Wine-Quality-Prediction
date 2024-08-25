@@ -43,16 +43,8 @@ This project explores a novel approach to wine quality prediction by combining t
 
 This project demonstrates that leveraging both numerical and textual data can significantly improve the prediction of wine quality. By decoding the 'language' of wine through NLP, we gain additional insights that traditional numerical analysis might miss.
 
-## Future Work
+## Contributor
 
-- Expanding the dataset to include more diverse wine descriptions.
-- Exploring other machine learning models (e.g., Random Forest, Neural Networks) for comparison.
-- Fine-tuning NLP techniques for better text feature extraction.
-
-## Contributors
-
-- Your Name (your.email@example.com)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+- Ninitha Ram Mysore Shantha Ram
+- Msc.Cyber Security
+- 3121344@stud.srh-campus-berlin.de
