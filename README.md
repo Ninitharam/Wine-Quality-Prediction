@@ -41,9 +41,7 @@ This project explores a novel approach to wine quality prediction by combining t
 ### Installation
 
 1. Clone the repository:
-   ''' bash
-    git clone https://github.com/yourusername/wine-quality-nlp-knn.git
-    '''
+   ```bash git clone https://github.com/yourusername/wine-quality-nlp-knn.git```
 
 2. Install the required libraries:
   '''  bash
