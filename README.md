@@ -9,7 +9,7 @@
 4. [Methodology](#methodology)
 5. [Results](#results)
 6. [Conclusion](#conclusion)
-7. [Contributors](#contributors)
+7. [Contributor](#contributor)
 
     
 ## Project Overview
@@ -55,7 +55,7 @@ This project explores a novel approach to wine quality prediction by combining t
 
 This project demonstrates that leveraging both numerical and textual data can significantly improve the prediction of wine quality. By decoding the 'language' of wine through NLP, we gain additional insights that traditional numerical analysis might miss.
 
-## Contributors
+## Contributor
 
 - Ninitha Ram Mysore Shantha Ram
 - Msc.Cyber Security
