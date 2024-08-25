@@ -4,20 +4,19 @@
 
 1. [Project Overview](#project-overview)
 2. [Objectives](#objectives)
-3. [Project Structure](#project-structure)
-4. [Getting Started](#getting-started)
+3. [Getting Started](#getting-started)
    - [Prerequisites](#prerequisites)
    - [Installation](#installation)
-5. [Methodology](#methodology)
+4. [Methodology](#methodology)
    - [Data Collection](#data-collection)
    - [Data Preprocessing](#data-preprocessing)
    - [NLP Integration](#nlp-integration)
    - [Feature Engineering](#feature-engineering)
    - [Model Training](#model-training)
    - [Evaluation](#evaluation)
-6. [Results](#results)
-7. [Conclusion](#conclusion)
-8. [Contributor](#contributor)
+5. [Results](#results)
+6. [Conclusion](#conclusion)
+7. [Contributor](#contributor)
 
 ## Project Overview
 
