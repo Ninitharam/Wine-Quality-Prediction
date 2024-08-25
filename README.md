@@ -1,4 +1,4 @@
-# Decoding the Language of Wine: Innovative Quality Prediction with NLP and kNN
+# Decoding the Language of Wine: Innovative Quality Prediction with NLP and Machine Learning
 
 ## Table of Contents
 
