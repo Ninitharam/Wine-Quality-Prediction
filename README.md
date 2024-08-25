@@ -17,8 +17,7 @@
    - [Evaluation](#evaluation)
 6. [Results](#results)
 7. [Conclusion](#conclusion)
-9. [Contributors](#contributors)
-
+8. [Contributors](#contributors)
 
 ## Project Overview
 
@@ -29,6 +28,14 @@ This project explores a novel approach to wine quality prediction by combining t
 - To predict wine quality (low/high) using the k-Nearest Neighbors (kNN) classification algorithm.
 - To incorporate Natural Language Processing (NLP) to analyze textual descriptions of wines, enhancing the predictive model's understanding.
 - To demonstrate the effectiveness of integrating multiple data modalities (numerical and text) for improved prediction outcomes.
+
+## Project Structure
+
+- data/: Contains the wine quality dataset and any additional textual data used for NLP.
+- notebooks/: Jupyter Notebooks with detailed code and analysis steps.
+- models/: Saved models and scripts for training and evaluation.
+- results/: Output files, including visualizations and evaluation metrics.
+- README.md: This file, providing an overview of the project.
 
 ## Getting Started
 
@@ -41,21 +48,31 @@ This project explores a novel approach to wine quality prediction by combining t
 ### Installation
 
 1. Install the required libraries:
-```bash pip install pandas numpy matplotlib scikit-learn nltk scipy```
 
-3. Open the Jupyter Notebook:
-    ```bash jupyter notebook```
-   
+    ```bash
+    pip install pandas numpy matplotlib scikit-learn nltk scipy```
+    
+
+2. Open the Jupyter Notebook:
+
+   ``` bash
+    jupyter notebook``
+    
+
 ## Methodology
 
 ### Data Collection
 
 The primary dataset used is the Wine Quality dataset, which includes numerical features such as acidity, pH, and alcohol content. Additional textual data is sourced from wine reviews or descriptions to provide a richer understanding of each wine's quality attributes.
 
+- *Code Reference*: See the data loading section in notebooks/Wine_Quality_Analysis.ipynb (Cell 1-2).
+
 ### Data Preprocessing
 
 - *Numerical Data*: Features are cleaned to handle missing values, normalized, and prepared for analysis.
 - *Textual Data*: NLP techniques are applied to the textual descriptions to extract meaningful features.
+
+- *Code Reference*: Data preprocessing steps can be found in notebooks/Wine_Quality_Analysis.ipynb (Cell 3-4).
 
 ### NLP Integration
 
@@ -74,19 +91,27 @@ NLP is used to process and analyze textual descriptions of wines. Here's how NLP
 
 4. *Integration with Numerical Data*: The textual features derived from NLP are combined with numerical features to form a comprehensive feature set. This combined dataset is then used for training the machine learning model.
 
+- *Code Reference*: See NLP processing in notebooks/Wine_Quality_Analysis.ipynb (Cell 5-8).
+
 ### Feature Engineering
 
 - Numerical features (e.g., acidity, pH, alcohol) and text-based features (from the textual descriptions) are combined into a unified feature set.
 - This integrated feature set provides a holistic view of each wine's characteristics, leveraging both qualitative and quantitative aspects.
+
+- *Code Reference*: Feature engineering processes are detailed in notebooks/Wine_Quality_Analysis.ipynb (Cell 9-10).
 
 ### Model Training
 
 - The k-Nearest Neighbors (kNN) classifier is trained using the combined feature set.
 - Hyperparameter tuning is conducted to find the best parameters for the kNN model, optimizing its performance for wine quality prediction.
 
+- *Code Reference*: Model training and hyperparameter tuning are outlined in notebooks/Wine_Quality_Analysis.ipynb (Cell 11-13).
+
 ### Evaluation
 
 Model performance is evaluated using metrics such as accuracy, precision, recall, and F1-score. Visualizations and comparative analyses are used to illustrate the model's performance and the impact of integrating NLP features.
+
+- *Code Reference*: Evaluation metrics and visualizations can be found in notebooks/Wine_Quality_Analysis.ipynb (Cell 14-15).
 
 ## Results
 
@@ -100,5 +125,7 @@ This project demonstrates that leveraging both numerical and textual data can si
 ## Contributors
 
 - Ninitha Ram Mysore Shantha Ram
-- Msc.Cybersecurity
+- Msc. Cybersecurity
 - 3121344@stud.srh-campus-berlin.de
+
+## Note: The project was developed using VS Code with Jupyter Notebook integration.
