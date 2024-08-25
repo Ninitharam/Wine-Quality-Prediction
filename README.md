@@ -1,5 +1,17 @@
 # Decoding the Language of Wine: Innovative Quality Prediction with NLP and kNN
 
+## Table of Contents
+
+1. [Project Overview](#project-overview)
+2. [Objectives](#objectives)
+3. [Getting Started](#getting-started)
+   - [Prerequisites](#prerequisites)
+4. [Methodology](#methodology)
+5. [Results](#results)
+6. [Conclusion](#conclusion)
+7. [Contributors](#contributors)
+
+    
 ## Project Overview
 
 This project explores a novel approach to wine quality prediction by combining traditional machine learning techniques with natural language processing (NLP). By leveraging both numerical and textual data, we aim to enhance the accuracy of wine quality predictions, providing a comprehensive analysis of what makes a wine high or low quality.
