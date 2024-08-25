@@ -1,5 +1,6 @@
 # Decoding the Language of Wine: Innovative Quality Prediction with NLP and Machine Learning
 ![image]("C:\\Users\\NINITHA\\Desktop\\glass-of-red-wine.jpg")
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fvinfotos%2Fpouring-wine%2F&psig=AOvVaw0vwvf9T-rWrlEtwJ84y6Bo&ust=1724696031957000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCt2sbfkIgDFQAAAAAdAAAAABAZ)
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
