@@ -10,14 +10,6 @@ This project explores a novel approach to wine quality prediction by combining t
 - To incorporate Natural Language Processing (NLP) to analyze textual descriptions of wines, enhancing the predictive model's understanding.
 - To demonstrate the effectiveness of integrating multiple data modalities (numerical and text) for improved prediction outcomes.
 
-## Project Structure
-
-- data/: Contains the wine quality dataset and any additional textual data used for NLP.
-- notebooks/: Jupyter Notebooks with detailed code and analysis steps.
-- models/: Saved models and scripts for training and evaluation.
-- results/: Output files, including visualizations and evaluation metrics.
-- README.md: This file, providing an overview of the project.
-
 ## Getting Started
 
 ### Prerequisites
@@ -25,24 +17,7 @@ This project explores a novel approach to wine quality prediction by combining t
 - Python 3.x
 - Jupyter Notebook
 - Required Python libraries: pandas, numpy, matplotlib, scikit-learn, nltk (or any other NLP libraries you choose)
-
-### Installation
-
-1. Clone the repository:
-    bash
-    git clone https://github.com/yourusername/wine-quality-nlp-knn.git
     
-
-2. Install the required libraries:
-    bash
-    pip install pandas numpy matplotlib scikit-learn nltk
-    
-
-3. Open the Jupyter Notebook:
-    bash
-    jupyter notebook
-    
-
 ## Methodology
 
 1. *Data Collection*: The primary dataset used is the Wine Quality dataset, which includes numerical features such as acidity, pH, and alcohol content. Additional textual data may be sourced from wine reviews or descriptions.
