@@ -40,19 +40,12 @@ This project explores a novel approach to wine quality prediction by combining t
 
 ### Installation
 
-1. Clone the repository:
-   ```bash git clone https://github.com/yourusername/wine-quality-nlp-knn.git```
-
-2. Install the required libraries:
-  '''  bash
-    pip install pandas numpy matplotlib scikit-learn nltk scipy
-    '''
+1. Install the required libraries:
+```bash pip install pandas numpy matplotlib scikit-learn nltk scipy```
 
 3. Open the Jupyter Notebook:
-  '''  bash
-    jupyter notebook
-   ''' 
-
+    ```bash jupyter notebook```
+   
 ## Methodology
 
 ### Data Collection
