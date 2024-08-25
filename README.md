@@ -29,14 +29,6 @@ This project explores a novel approach to wine quality prediction by combining t
 - To incorporate Natural Language Processing (NLP) to analyze textual descriptions of wines, enhancing the predictive model's understanding.
 - To demonstrate the effectiveness of integrating multiple data modalities (numerical and text) for improved prediction outcomes.
 
-## Project Structure
-
-- data/: Contains the wine quality dataset and any additional textual data used for NLP.
-- notebooks/: Jupyter Notebooks with detailed code and analysis steps.
-- models/: Saved models and scripts for training and evaluation.
-- results/: Output files, including visualizations and evaluation metrics.
-- README.md: This file, providing an overview of the project.
-
 ## Getting Started
 
 ### Prerequisites
