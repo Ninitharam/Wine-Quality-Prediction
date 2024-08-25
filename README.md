@@ -17,7 +17,7 @@
    - [Evaluation](#evaluation)
 6. [Results](#results)
 7. [Conclusion](#conclusion)
-8. [Contributors](#contributors)
+8. [Contributor](#contributor)
 
 ## Project Overview
 
@@ -114,7 +114,7 @@ Model performance is evaluated using metrics such as accuracy, precision, recall
 
 This project demonstrates that leveraging both numerical and textual data can significantly improve the prediction of wine quality. By decoding the 'language' of wine through NLP, we gain additional insights that traditional numerical analysis might miss.
 
-## Contributors
+## Contributor
 
 - Ninitha Ram Mysore Shantha Ram
 - Msc. Cybersecurity
